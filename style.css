@@ -1,0 +1,38 @@
+body{
+    background:  grey;
+}
+
+#block{   
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: grey;
+    margin: 300px 0 0 300px;
+    display: flex;
+    justify-content: center;        
+}
+
+#osnArria{
+    width: 800px;
+    height: 800px;
+    position: relative;
+    margin:auto;
+    margin-top: 60px;
+    background:white;
+}
+
+button{
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+    padding: 5px; 
+    margin: 3px; 
+    }
+button:hover{
+    background: lightblue; 
+}
+
+button:focus{
+    background:lightcoral;
+    outline:none;
+}

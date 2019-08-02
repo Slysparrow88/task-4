@@ -3,7 +3,6 @@ const btnRight = document.querySelector('#right');
 const btnUp = document.querySelector('#up');
 const btnDown = document.querySelector('#down');
 
-const osnArria = document.querySelector('#osnArria');
 const block = document.querySelector('#block');
 const reset = document.querySelector('#reset');
 
